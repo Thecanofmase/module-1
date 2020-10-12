@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\mason\Desktop\CS132\cs132-hop-hands-on-practice-Thecanofmase\.github\Module 1.cs" Link="Module 1.cs" />
+    <Compile Include="C:\Users\mason\Desktop\CS132\cs132-hop-hands-on-practice-Thecanofmase\Module 1.cs" Link="Module 1.cs" />
+  </ItemGroup>
+
+</Project>
